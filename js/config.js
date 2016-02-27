@@ -15,7 +15,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "SERVERNAME";
+var l_serverName = "RepublicRP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -52,7 +52,7 @@ var l_background = "backgrounds/videos/colorfulburst.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/videos/colorfulburst.webm",
+	"http://images4.alphacoders.com/660/66068.jpg",
 ];
 
 /*Random background images order?*/
