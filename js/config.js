@@ -52,9 +52,7 @@ var l_background = "backgrounds/videos/colorfulburst.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/touhou01.jpg",
-	"backgrounds/images/touhou02.jpg",
-	"backgrounds/images/touhou03.jpg",
+	"backgrounds/videos/colorfulburst.webm",
 ];
 
 /*Random background images order?*/
